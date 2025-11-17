@@ -8,3 +8,9 @@ seaborn
 jupyter
 
 library on second day:
+pandas
+numpy
+scipy
+statsmodels
+matplotlib
+seaborn
