@@ -7,7 +7,7 @@ matplotlib
 seaborn
 jupyter
 
-library on second day:
+librarys on second day:
 pandas
 numpy
 scipy
