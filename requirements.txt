@@ -1,3 +1,4 @@
+librarys on first day:
 pandas
 numpy
 scipy
@@ -5,3 +6,5 @@ statsmodels
 matplotlib
 seaborn
 jupyter
+
+library on second day:
